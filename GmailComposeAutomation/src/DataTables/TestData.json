@@ -1,0 +1,20 @@
+{
+"TC01_VerifyNewMessagePopUpOnComposeButtonClick":
+[
+{
+"EmailID" : "abc@gmail.com",
+"Password" : "P@ss1234",
+}
+],
+"TC02_VerifySimpleSendMailFlow":
+[
+{
+"EmailID" : "abc@gmail.com",
+"Password" : "P@ss1234",
+"ToEmail" : "xyz@gmail.com",
+"Subject" : "Incubyte",
+"Body" : "Automation QA test for Incubyte"
+}
+]
+
+}
